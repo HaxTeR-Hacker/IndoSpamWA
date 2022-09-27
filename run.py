@@ -1,4 +1,4 @@
-# FREE VERSION, BUY PREMIUM AT https://discord.gg/NqeSeDaVYj THX
+# FREE VERSION, BUY PREMIUM AT https://discord.gg/NqeSeDaVYj Thanks
 # DONT COPY THE CODE, CREDIT PLZ! MADE BY HaxTeR!
 from colorama import Fore
 import time
