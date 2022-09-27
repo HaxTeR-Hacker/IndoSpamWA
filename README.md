@@ -1,5 +1,6 @@
 # IndoSpamWA (FREE VERSION)
-*BY HaxTeR*
+*By HaxTeR*
+
 Spam your friend in whatsapp and sms (indonesia number)
 
 TO BUY PREMIUM VERSION -> https://discord.gg/NqeSeDaVYj
