@@ -16,8 +16,9 @@ Premium version:
 - Fast speed
 - 1 - 2 Second cooldown
 - 10+ message/5 minute
-Proof:
+- 
+# PREMIUM VERSION POV:
 
 ![Hacker POV](https://media.discordapp.net/attachments/1021278457637908520/1023207548905603082/unknown.png?width=141&height=444 "Hacker POV")
 
-![Target POV](https://media.discordapp.net/attachments/1021278457637908520/1023205302193111040/unknown.png?width=726&height=443?width=141&height=444 "Target POV")
+![Target POV](https://media.discordapp.net/attachments/1021278457637908520/1023205302193111040/unknown.png?width=726&height=443 "Target POV")
