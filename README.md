@@ -16,7 +16,7 @@ Premium version:
 - Fast speed
 - 1 - 2 Second cooldown
 - 10+ message/5 minute
-- 
+- Spam call (very slow but sometime maybe work)
 # PREMIUM VERSION POV:
 
 ![Hacker POV](https://media.discordapp.net/attachments/1021278457637908520/1023207548905603082/unknown.png?width=141&height=444 "Hacker POV")
