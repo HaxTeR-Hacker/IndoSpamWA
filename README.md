@@ -4,6 +4,13 @@
 Spam your friend in whatsapp and sms (indonesia number)
 
 TO BUY PREMIUM VERSION -> https://discord.gg/NqeSeDaVYj
+# How to use it?
+
+git clone https://github.com/HaxTeR-Hacker/IndoSpamWA.git
+
+cd IndoSpamWA
+
+python run.py
 
 *What the different?*
 
