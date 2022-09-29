@@ -191,12 +191,11 @@ def Tokped():
                    
                    
 def Spam():
-  	print(Fore.RED + "STARTING FREE VERSION...")
-  	print(Fore.GREEN + "Buy premium at https://discord.gg/NqeSeDaVYj")
-  	time.sleep(1)
-  	os.system('xdg-open https://discord.gg/NqeSeDaVYj')
-  	time.sleep("1")
-  	os.system('clear')
+	os.system('clear')
+	print(C+'Klik Iklan Dulu'+W+' Su !'+C+' :V')
+	sleep(1.5)
+	os.system('xdg-open https://discord.gg/NqeSeDaVYj')
+	os.system('clear')
 	sleep(1.3)
 	Banner()
 	print
@@ -219,7 +218,11 @@ def Spam():
 	except NameError:
 		print
 		print(M+'Pilih Menu Harus Berupa Angka, Bukan Huruf !')
+	        time.sleep(1)
 		sys.exit()
 			
 if __name__ == '__main__':
-	Spam()
+        print(M+'STARTING FREE VERSION...')
+        print(H+'Buy premium at https://discord.gg/NqeSeDaVYj')
+        time.sleep(2)
+        Spam()
