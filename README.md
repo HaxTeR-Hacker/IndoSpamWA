@@ -12,7 +12,7 @@ cd IndoSpamWA
 
 python run.py
 
-*What the different?*
+# What the different?
 
 Free version:
 - Working
