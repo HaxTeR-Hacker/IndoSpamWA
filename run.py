@@ -191,12 +191,12 @@ def Tokped():
                    
                    
 def Spam():
-  print(Fore.RED + "STARTING FREE VERSION...")
-  print(Fore.GREEN + "Buy premium at https://discord.gg/NqeSeDaVYj")
-  time.sleep(1)
-  os.system('xdg-open https://discord.gg/NqeSeDaVYj')
-  time.sleep("1")
-	os.system('clear')
+  	print(Fore.RED + "STARTING FREE VERSION...")
+  	print(Fore.GREEN + "Buy premium at https://discord.gg/NqeSeDaVYj")
+  	time.sleep(1)
+  	os.system('xdg-open https://discord.gg/NqeSeDaVYj')
+  	time.sleep("1")
+  	os.system('clear')
 	sleep(1.3)
 	Banner()
 	print
